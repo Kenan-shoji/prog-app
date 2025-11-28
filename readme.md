@@ -11,8 +11,8 @@
 
 Nesta disciplina de Programação de Aplicativos, meus objetivos são:
 
-1. [Objetivo 1]
-2. [Objetivo 2]
+1. [Adquirir mais conecimento]
+2. [aprender javascript mais aprofundado]
 3. [Objetivo 3]
 
 ## Tecnologias que Quero Aprender
